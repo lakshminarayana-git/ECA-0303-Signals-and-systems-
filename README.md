@@ -85,7 +85,7 @@ ECA0303-Signals-and-Systems-Lab/
 
 ## 💻 Software
 
-- MATLAB R2020a or later
+- MATLAB  or later
 
 ---
 
