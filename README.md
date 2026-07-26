@@ -11,7 +11,7 @@
 
 This repository contains MATLAB implementations of the  laboratory experiment of the **ECA0303 – Signals and Systems** course.
 
-The official laboratory manual consists of **10 major experiments**, each containing **4 sub-experiments**. This repository includes **only Experiments X.1 and X.2** for each major experiment. :contentReference[oaicite:0]{index=0}
+The official laboratory manual consists of **10 major experiments**, each containing **4 sub-experiments**. This repository includes **only Experiments X.1 and X.2** for each major experiment. 
 
 ---
 
